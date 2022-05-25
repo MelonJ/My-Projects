@@ -1,2 +1,2 @@
-# My-Projects
-A running repository of all my completed projects
+# Chess-Game
+A fully functioning chess game with AI and two player functionality
